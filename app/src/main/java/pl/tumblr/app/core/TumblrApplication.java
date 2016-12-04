@@ -19,6 +19,7 @@ public class TumblrApplication extends Application {
     private static Context mContext;
     public static ApiInterface mInterface;
     public static TumblrInterface tumblrInterface;
+    public static boolean IS_CONNECTED_TO_THE_INTERNET = false;
 
 
     @Override

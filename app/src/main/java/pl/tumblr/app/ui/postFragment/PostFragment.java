@@ -21,6 +21,7 @@ import java.util.ArrayList;
 import pl.tumblr.R;
 import pl.tumblr.app.core.TumblrApplication;
 import pl.tumblr.app.ui.base.BaseFragment;
+import pl.tumblr.app.ui.utils.NetworkAvailable;
 import pl.tumblr.restApi.models.Posts;
 
 /**
