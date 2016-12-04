@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tumblr</string>
+
+    <!-- general -->
+    <string name="general_ok">OK</string>
+    <string name="general_cancel">CANCEL</string>
+    <!-- response failure -->
+    <string name="response_failure">Response failure</string>
+
+    <!-- fragment post -->
+    <string name="fragment_post_date">DATE: </string>
+    <string name="fragment_post_type">TYPE: </string>
+    <string name="fragment_post_empty_list">Empty list.</string>
+
+    <!-- dialog -->
+    <string name="dialog_post_set_name">Set your name: </string>
+</resources>
