@@ -12,6 +12,7 @@ import pl.tumblr.restApi.core.RestEngine;
 
 public class TumblrApplication extends Application {
 
+    //    public String url = "http://" + userName + ".tumblr.com/";
     public static String URL = "http://Konrad889.tumblr.com/";
     public static String userName = "";
     private static long CONNECTION_TIMEOUT_IN_SEC = 20;

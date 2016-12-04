@@ -92,6 +92,7 @@ public class PostFragment extends BaseFragment implements PostFragmentPresenter.
 
     private void requestUserNameDialog() {
         final AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+        builder.setCancelable(false);
         builder.setTitle(R.string.dialog_post_set_name);
         final EditText mEtDialogName = new EditText(getActivity());
         builder.setView(mEtDialogName);
